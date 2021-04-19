@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandre-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="jeandre-jpg" /> </p>
 
-- 🔭 I’m currently working on [Poggers](https://github.com/Jeandre-jpg/Poggers)
+- 🔭 I’m currently working on [Poggerz](https://github.com/Jeandre-jpg/Poggerz)
 
 - 🌱 I’m currently learning **Frameworks, Android App Development and Web Design.**
 
@@ -24,6 +24,9 @@
 <a href="https://github.com/Jeandre-jpg" target="blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="https://github.com/Jeandre-jpg" height="40" width="40" />
 </a>
+  <a href="https://icons8.com/icon/11084/dribbble">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/dribbble.png" lt="https://dribbble.com/Jeandre" height="40" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
