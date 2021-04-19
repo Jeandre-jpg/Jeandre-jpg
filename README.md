@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/gosatisfyjeandre/" target="blank">
+<a href=https://www.instagram.com/gosatisfyjeandre/" target="blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/000000/instagram--v2.png" alt="https://www.instagram.com/gosatisfyjeandre/" height="40" width="40" />
 </a>
 <a href="https://www.facebook.com/jeandre.devilliers.18" target="blank">
@@ -24,7 +24,7 @@
 <a href="https://github.com/Jeandre-jpg" target="blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="https://github.com/Jeandre-jpg" height="40" width="40" />
 </a>
-  <a href="https://icons8.com/icon/11084/dribbble">
+  <a href="https://dribbble.com/Jeandre">
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/dribbble.png" lt="https://dribbble.com/Jeandre" height="40" width="40"/>
   </a>
 </p>
