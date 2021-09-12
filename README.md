@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Poggerz](https://github.com/Jeandre-jpg/Poggerz)
 
-- 🌱 I’m currently learning **Frameworks, Android App Development and Web Design.**
+- 🌱 I’m currently learning **Frameworks, iOS App Development and Web Design.**
 
 - 📫 How to reach me **190025@virtualwindow.co.za**
 
@@ -29,10 +29,10 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+  </a> <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -88,9 +88,6 @@
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -116,12 +113,35 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.android.com/studio" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.apple.com/xcode/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xd" width="40" height="40"/> 
+   </a> 
+  <a href="https://rapidapi.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.canva.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+   <a href="https://about.gitlab.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="xd" width="40" height="40"/> 
+  </a>                                                                                             
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeandre-jpg&show_icons=true&locale=en" alt="jeandre-jpg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeandre-jpg&" alt="jeandre-jpg" /></p>
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">⭐ Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">Made with ❤️ from South Africa</p>
