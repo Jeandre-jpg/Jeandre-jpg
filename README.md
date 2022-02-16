@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Poggerz](https://github.com/Jeandre-jpg/Poggerz)
 
-- 🌱 I’m currently learning **Frameworks, iOS App Development and Web Design.**
+- 🌱 I’m currently learning **Frameworks, C#, SQL Databases and Web Design.**
 
 - 📫 How to reach me **190025@virtualwindow.co.za**
 
@@ -135,7 +135,13 @@
   </a> 
    <a href="https://about.gitlab.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="xd" width="40" height="40"/> 
-  </a>                                                                                             
+  </a>   
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://www.freeiconspng.com/img/28402" alt="C#" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
+    <img src="https://www.freeiconspng.com/img/28402" alt="ASP.NET" width="40" height="40"/> 
+  </a>  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeandre-jpg&show_icons=true&locale=en" alt="jeandre-jpg" /></p>
