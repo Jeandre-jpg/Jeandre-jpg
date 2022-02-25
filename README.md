@@ -136,6 +136,24 @@
    <a href="https://about.gitlab.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="xd" width="40" height="40"/> 
   </a>   
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="60" height="60"/>
+      </a>
+   <a href="https://html.com/html5/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="swift" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" height="60"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="60" height="60"/> 
+  </a>
+   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60" height="60"/> 
+  </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/55391556/155721760-a9be3baf-d795-4686-b245-a6db6938e31f.svg" width="60" height="60"/> 
+  </a>
 <!--    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img src="https://www.freeiconspng.com/img/28402" alt="C#" width="40" height="40"/> 
   </a>
