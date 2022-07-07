@@ -1,5 +1,5 @@
 <h1 align="center">🍒Hi, I'm Jeandré De Villiers🍒</h1>
-<h3 align="center">A passionate frontend and backend developer and designer student from South Africa.</h3>
+<h3 align="center">A passionate UI and UX designer and research student from South Africa.</h3>
 <p align="center">
 <img src="https://tenor.com/view/computer-pixel-art-monitors-computer-set-up-blinking-cursor-gif-17153742.gif" width="700" height="400" />
 </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandre-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="jeandre-jpg" /> </p>
 
-- 🔭 I’m currently working on [Poggerz](https://github.com/Jeandre-jpg/Poggerz)
+- 🔭 I’m currently working on [FunkSocky](https://github.com/Jeandre-jpg/FunkySocky)
 
 - 🌱 I’m currently learning **Frameworks, C#, SQL Databases and Web Design.**
 
